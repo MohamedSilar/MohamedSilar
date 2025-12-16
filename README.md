@@ -1,7 +1,53 @@
-# <br>Hi there! I'm Mohamed Silar👋<br>
+# <br>Hi there! I'm **Mohamed Silar** 👋<br>
 
+👨‍💻 I’m an **enthusiastic and skilled final-year Information Technology student** with a strong passion for **backend development, automation, and product-based software engineering**, focused on building **scalable, secure, and user-friendly solutions**.<br><br>
 
-👨‍💻, I'm an enthusiastic and skilled developer with a passion for technology and innovation. I specialize in app development and web technologies, striving to create impactful and user-friendly solutions. <br><br>- 🎓 **Education:** B.Tech in Information Technology at Velammal College of Engineering & Technology.<br><br>- 🌱 **Skills:**<br>  - Programming Languages: Java, C <br>  - Databases: MySQL<br>  - App Development: Android Studio<br>  - IDEs and Tools: Eclipse ,Visual Studio, NetBeans, Turbo C++, Figma, Canva<br><br>- 🚀 **Projects:**<br>  - **Journey Explorer:** A full-stack AI-powered travel planner website that helps users create personalized trips based on destination, budget, days, and travel type. Built using React with TypeScript and Supabase for authentication and database management.<br>  - **SkyNext Airline:** A Java-based airline management system using Java Swing for the frontend and MySQL for the backend. The system manages flights, customer details, ticket bookings, and includes an admin panel..<br><br>- 🏆 **Achievements:**<br>  - Completed Accenture's Data Analytics and Visualization Job Simulation.<br>  - Earned certifications in Cybersecurity, Java Development, and Full-Stack Java Development from platforms like Tata Strive, Microsoft, and Coursera.<br><br>- 🌟 **Interests:** Web Development, Data Structures, and Mobile App Design.<br><br>>📫 Let's Connect!<br>- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-silar-374a09284)<br>- 🌐 [GitHub](https://github.com/MohamedSilar)<br>- 📧 Reach me at: mohamedsilar26@gmail.com<br><br>---<br><br>_“Innovation is the outcome of a habit, not a random act.”_<br>
+🎓 **Education:**  
+**B.Tech – Information Technology**, Velammal College of Engineering & Technology  
+**CGPA:** 8.00 / 10 (Up to 6th Semester) | **Expected Graduation:** April 2026<br><br>
+
+🌱 **Skills:**<br>
+- **Programming Languages:** Java, Python<br>
+- **Backend & Databases:** SQL, MySQL, Supabase, JDBC<br>
+- **Web Technologies:** HTML, CSS, JavaScript<br>
+- **Chatbot & Automation:** Zoho SalesIQ, Deluge<br>
+- **App Development:** Android<br>
+- **Tools & IDEs:** Eclipse, VS Code, NetBeans, Android Studio, Git, GitHub<br><br>
+
+🚀 **Projects:**<br>
+- **MedKit – Zoho SalesIQ Chatbot:**  
+  Developed an **intelligent healthcare chatbot** using **Zoho SalesIQ**, implementing **appointment booking, expert consultation, product procurement, fitness guidance, and nutrition support**. Integrated **20+ APIs** with Zoho services for **OTP verification, scheduling, payments, notifications, and real-time workflows** using **Deluge and JSON**, delivering a **secure, scalable, and high-performance chatbot experience**.<br><br>
+
+- **SKTNEST Airlines – Airline Management System:**  
+  Designed and developed a **Java Swing–based airline reservation system** with a **MySQL backend**, implementing **JDBC connectivity**, efficient **CRUD operations**, strong **exception handling**, and **clean UI design** for a smooth user experience.<br><br>
+
+💼 **Experience:**<br>
+- **Application Developer Intern – NSIC** (Dec 2023 – Jan 2024)  
+  Mentored students and co-created **Java and Android development curricula**, covering **OOP, JDBC, MySQL, Firebase integration, UI/UX design**, and real-world application development.<br><br>
+
+- **Java Developer Intern – Techno Hacks** (Aug 2024 – Sep 2024)  
+  Worked on **modular Java programming**, **exception handling**, **file I/O**, **multithreading**, and **Git-based collaboration** for version control and code reviews.<br><br>
+
+- **Web Developer Intern – Octanet** (Oct 2024 – Nov 2024)  
+  Delivered web development training using **HTML, CSS, and JavaScript**, focusing on **responsive design**, debugging, deployment, and **Git/GitHub workflows**.<br><br>
+
+🏆 **Certifications:**<br>
+- **Programming with Java – Amazon Web Services**<br>
+- **AWS Cloud Fundamentals – Coursera**<br>
+- **Java Full Stack Development – Coursera**<br>
+- **Git & GitHub Version Control & Collaboration – IBM**<br><br>
+
+🌟 **Interests:**  
+**Backend Development, Java Programming, APIs & System Design, Problem Solving**<br><br>
+
+📫 **Let’s Connect!**<br>
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mohamed-silar<br>
+- 💻 **GitHub:** https://github.com/MohamedSilar<br>
+- 🌐 **Portfolio:** https://silar.netlify.app<br>
+- 📧 **Email:** mohamedsilar@gmail.com<br><br>
+
+_“Build systems that scale, code that lasts, and solutions that matter.”_
+
 
 
 <!-- Snake -->
