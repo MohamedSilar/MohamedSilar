@@ -44,7 +44,8 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mohamed-silar<br>
 - 💻 **GitHub:** https://github.com/MohamedSilar<br>
 - 🌐 **Portfolio:** https://silar.netlify.app<br>
-- 📧 **Email:** mohamedsilar@gmail.com<br><br>
+- 🧠 **LeetCode:** https://leetcode.com/u/MohamedSilar/<br>
+- 📧 **Email:** mohamedsilar26@gmail.com<br><br>
 
 _“Build systems that scale, code that lasts, and solutions that matter.”_
 
