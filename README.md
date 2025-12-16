@@ -4,10 +4,9 @@
 
 🎓 **Education:**  
 **B.Tech – Information Technology**, Velammal College of Engineering & Technology  
-**CGPA:** 8.00 / 10 (Up to 6th Semester) | **Expected Graduation:** April 2026<br><br>
 
 🌱 **Skills:**<br>
-- **Programming Languages:** Java, Python<br>
+- **Programming Languages:** Java<br>
 - **Backend & Databases:** SQL, MySQL, Supabase, JDBC<br>
 - **Web Technologies:** HTML, CSS, JavaScript<br>
 - **Chatbot & Automation:** Zoho SalesIQ, Deluge<br>
