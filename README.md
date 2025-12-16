@@ -5,6 +5,7 @@
 🎓 **Education:**  
 **B.Tech – Information Technology**, Velammal College of Engineering & Technology  
 
+
 🌱 **Skills:**<br>
 - **Programming Languages:** Java<br>
 - **Backend & Databases:** SQL, MySQL, Supabase, JDBC<br>
