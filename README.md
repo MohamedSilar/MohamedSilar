@@ -42,7 +42,6 @@
 
 📫 **Let’s Connect!**<br>
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/mohamed-silar](https://www.linkedin.com/in/mohamed-silar-374a09284/)<br>
-- 💻 **GitHub:** https://github.com/MohamedSilar<br>
 - 🌐 **Portfolio:** https://silar.netlify.app<br>
 - 🧠 **LeetCode:** https://leetcode.com/u/MohamedSilar/<br>
 - 📧 **Email:** mohamedsilar26@gmail.com<br><br>
