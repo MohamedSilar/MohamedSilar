@@ -3,7 +3,7 @@
 👨‍💻 I’m an **enthusiastic and skilled final-year Information Technology student** with a strong passion for **backend development, automation, and product-based software engineering**, focused on building **scalable, secure, and user-friendly solutions**.<br><br>
 
 🎓 **Education:**  
-**B.Tech – Information Technology**, Velammal College of Engineering & Technology.<br><br>
+ - **B.Tech – Information Technology**, Velammal College of Engineering & Technology.<br><br>
 
 🏆 **Achievements:**<br>
 - **Winner – Zoho CliqTrix 2026** 🥉  
