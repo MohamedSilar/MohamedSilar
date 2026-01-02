@@ -5,6 +5,9 @@
 🎓 **Education:**  
 **B.Tech – Information Technology**, Velammal College of Engineering & Technology.<br><br>
 
+🏆 **Achievements:**<br>
+- **Winner – Zoho CliqTrix 2026** 🥉  
+  Secured **3rd Prize** at **Zoho CliqTrix 2026**, a national-level **bot-building competition by Zoho**, for developing **MedKit**, an intelligent healthcare chatbot built using **Zoho SalesIQ, Deluge, APIs, and automation workflows**, recognized for its **real-world impact, scalability, and innovation**.<br><br>
 
 🌱 **Skills:**<br>
 - **Programming Languages:** Java<br>
