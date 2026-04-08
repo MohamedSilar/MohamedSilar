@@ -21,8 +21,8 @@
 - **MedKit – Zoho SalesIQ Chatbot:**  
   Developed an **intelligent healthcare chatbot** using **Zoho SalesIQ**, implementing **appointment booking, expert consultation, product procurement, fitness guidance, and nutrition support**. Integrated **20+ APIs** with Zoho services for **OTP verification, scheduling, payments, notifications, and real-time workflows** using **Deluge and JSON**, delivering a **secure, scalable, and high-performance chatbot experience**.<br><br>
 
-- **SKTNEST Airlines – Airline Management System:**  
-  Designed and developed a **Java Swing–based airline reservation system** with a **MySQL backend**, implementing **JDBC connectivity**, efficient **CRUD operations**, strong **exception handling**, and **clean UI design** for a smooth user experience.<br><br>
+- **NoteZy – Notes & Task Management System:**
+Designed and developed a Swift-based iOS application with integrated Notes, Reminders, To-Do Lists, and Calendar Events, implementing efficient CRUD operations, structured data management, strong state handling, and clean UI design for a smooth user experience.<br><br>
 
 💼 **Experience:**<br>
 - **Application Developer Intern – NSIC** (Dec 2023 – Jan 2024)  
