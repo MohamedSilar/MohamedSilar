@@ -10,8 +10,10 @@
   Secured **3rd Prize** at **Zoho CliqTrix 2026**, a national-level **bot-building competition by Zoho**, for developing **MedKit**, an intelligent healthcare chatbot built using **Zoho SalesIQ, Deluge, APIs, and automation workflows**, recognized for its **real-world impact, scalability, and innovation**.<br><br>
 
 🌱 **Skills:**<br>
-- **Programming Languages:** Java<br>
+- **Programming Languages:** Java , Swift<br>
+- **IOS Development:** Swift, UIKit, SwiftUI, iOS SDK, Auto Layout, Storyboards<br>
 - **Backend & Databases:** SQL, MySQL, Supabase, JDBC<br>
+- **Mobile Concepts:** MVC , MVVM<br>
 - **Web Technologies:** HTML, CSS, JavaScript<br>
 - **Chatbot & Automation:** Zoho SalesIQ, Deluge<br>
 - **App Development:** Android<br>
