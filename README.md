@@ -1,6 +1,6 @@
 # <br>Hi there! I'm **Mohamed Silar** 👋<br>
 
-👨‍💻 I’m an **enthusiastic and skilled final-year Information Technology student** with a strong passion for **backend development, automation, and product-based software engineering**, focused on building **scalable, secure, and user-friendly solutions**.<br><br>
+👨‍💻 I’m an **enthusiastic and skilled final-year Information Technology student** with a strong passion for **iOS development and mobile application engineering, focused on building scalable, high-performance, and user-friendly iOS applications using modern Apple technologies**.<br><br>
 
 🎓 **Education:**  
  - **B.Tech – Information Technology**, Velammal College of Engineering & Technology.<br><br>
